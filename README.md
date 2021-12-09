@@ -1,10 +1,10 @@
-👋 Hi, I'm @steo13, Stefano Rainò, a computer expert, a doctor in **Information Engineering** and a student of **Computer Engineering - Artificial Intelligence and Data Analytics** of the Politecnico di Torino
+- 👋 Hi, I'm @steo13, Stefano Rainò, a computer expert, a doctor in **Information Engineering** and a student of **Computer Engineering Artificial Intelligence and Data Analytics** of the Politecnico di Torino
 
-👀 I'm interested in developing applications regarding topics related to **Deep Learning, Web and Computational Intelligence**
+- 👀 I'm interested in developing applications regarding topics related to **Deep Learning, Web and Computational Intelligence**
 
-🌱 I'm currently learning to develop applications of the previously mentioned genres
+- 🌱 I'm currently learning to develop applications of the previously mentioned genres
 
-📫 You can reach me on:
+- 📫 You can reach me on:
   - Telegram: @steo13
   - Instagram: https://www.instagram.com/stefano_raino/
   - Mail: stefano.raino@studenti.polito.it
